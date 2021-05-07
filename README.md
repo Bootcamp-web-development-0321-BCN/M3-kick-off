@@ -2,10 +2,6 @@
 
 <br>
 
-# Quick Compo
-
-<br>
-
 ## Description
 
 This is an app to manage unofficial tournaments within communities. The app helps to organize, manage and track competitions.
